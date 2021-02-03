@@ -1,2 +1,2 @@
-print('Hello world:');
-print('Hello everybody:')
+print('Hello world:');123
+print('Hello everybody:')123
